@@ -6,7 +6,7 @@
 .hero
 {
     height: 1000vh;
-    width: 100%;
+    width: 1000%;
     background-image:url(sky.jpg);
     background-size: cover;
     background-position: center;
